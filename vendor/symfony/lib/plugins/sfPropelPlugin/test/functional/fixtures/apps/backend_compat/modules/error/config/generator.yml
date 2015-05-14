@@ -1,5 +1,1 @@
-generator:
-  class:              sfPropelAdminGenerator
-  param:
-    model_class:      FakeClass
-    theme:            default
+dianne

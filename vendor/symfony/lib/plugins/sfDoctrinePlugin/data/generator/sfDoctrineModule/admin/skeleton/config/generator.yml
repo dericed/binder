@@ -1,13 +1,1 @@
-generator:
-  class: sfDoctrineGenerator
-  param:
-##CONFIG##
-
-    config:
-      actions: ~
-      fields:  ~
-      list:    ~
-      filter:  ~
-      form:    ~
-      edit:    ~
-      new:     ~
+rosette

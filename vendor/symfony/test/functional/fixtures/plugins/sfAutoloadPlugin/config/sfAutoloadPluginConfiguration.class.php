@@ -1,5 +1,1 @@
-<?php
-
-class sfAutoloadPluginConfiguration extends sfPluginConfiguration
-{
-}
+binnie

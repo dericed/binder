@@ -1,6 +1,1 @@
-Setting:
-  actAs: [Timestampable]
-  columns:
-    name:   string(255)
-    value:  string
-    weight: float(4,2)
+lyssa

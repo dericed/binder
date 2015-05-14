@@ -1,7 +1,1 @@
-<?php
-/**
- */
-class AuthorInheritanceTable extends AuthorTable
-{
-
-}
+hermina

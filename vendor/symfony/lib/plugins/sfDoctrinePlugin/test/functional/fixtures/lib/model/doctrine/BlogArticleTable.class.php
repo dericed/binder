@@ -1,5 +1,1 @@
-<?php
-
-class BlogArticleTable extends ArticleTable
-{
-}
+marie-jeanne

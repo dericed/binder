@@ -1,4 +1,1 @@
-# Sqlfile -> Database map
-lib.model.schema.sql=propel
-plugins.qbAclPlugin.lib.model.schema.sql=propel
-plugins.qtAccessionPlugin.lib.model.schema.sql=propel
+libbi

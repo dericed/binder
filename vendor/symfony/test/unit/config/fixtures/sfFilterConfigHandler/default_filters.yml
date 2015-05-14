@@ -1,12 +1,1 @@
-execution:
-  class:  sfExecutionFilter
-  param:
-    type: execution
-
-default:
-  class: defaultFilterClass
-
-rendering:
-  class:  sfRenderingFilter
-  param:
-    type: rendering
+jada

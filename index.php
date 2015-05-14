@@ -1,6 +1,1 @@
-<?php
-
-require_once(dirname(__FILE__).'/config/ProjectConfiguration.class.php');
-
-$configuration = ProjectConfiguration::getApplicationConfiguration('qubit', 'prod', false);
-sfContext::createInstance($configuration)->dispatch();
+jewell

@@ -1,5 +1,1 @@
-<?php
-
-class ExtendMe extends BaseExtendMe
-{
-}
+avivah
